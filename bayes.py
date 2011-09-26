@@ -1,4 +1,4 @@
-#!/usr/bin/pypyFiles/bin/pypy
+#!/usr/bin/python
 
 import random;
 import sys;
